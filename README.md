@@ -3,7 +3,7 @@ Chuchorlax Devs
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola+soy+Chuchorlax+Devs;Ingeniero+en+Sistemas+y+TI;Programador+de+Flutter+;IOS+y+android)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola+soy+Chuchorlax+Devs;Ingeniero+en+Sistemas+y+TI;Programador+de+Flutter+;IOS+y+android)](https://git.io/typing-svg)
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
